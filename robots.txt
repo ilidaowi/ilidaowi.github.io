@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilidaowi.github.io/iqt/sitemap_index.txt
+Sitemap: https://ilidaowi.github.io/nmH/sitemap_index.txt
+Sitemap: https://ilidaowi.github.io/oRm/sitemap_index.txt
+Sitemap: https://ilidaowi.github.io/rOb/sitemap_index.txt
